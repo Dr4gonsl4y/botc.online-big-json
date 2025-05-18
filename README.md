@@ -3,11 +3,11 @@ These are two .json files including every single Character in Blood on the Clock
 Ideally, don't import them into Clocktower.online and instead copy and paste relevant parts into your own json, but hey I'm not your boss.
 This includes every character officially released, with information taken from https://wiki.bloodontheclocktower.com/Main_Page as of the 18th of May 2025. I may update this as new characters release, but there's no promises.
 
-## every_single_role.json
+## eEVERY SINGLE ROLE.json
 This is a json with detailed descriptions for every character in the game. This is highly impractical, since Clocktower.online predictably wasn't made to handle 200 characters simultanously. Check this out if you think it's funny.
 Most Characters are taken from the [source code of clocktower.online](https://github.com/bra1n/townsquare). Any character starting from the Alsaahir are transcribed by myself. I demarked this with a few linebreaks.
 
-## new_roles_only.json
+## New Roles only.json
 If you want to make a custom script, and add the roles not on clocktower.online, this is probably the one you are looking for. As of right now, it contains the following characters:
 Alsaahir, Banshee, High Priestess, Knight, Shugenja, Village Idiot, Hatter, Ogre, Plague doctor, Zealot, Boffin, Harpy, Organ Grinder, Summoner, Vizier, Wizard, Xaan, Kazali, Lord of Typhon, Ojo, Yaggababble.
 Images for them are also included. Just make sure to check the "Show custom images" button in clocktower.online.
