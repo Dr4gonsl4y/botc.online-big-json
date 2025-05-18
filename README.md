@@ -3,7 +3,7 @@ These are two .json files including every single Character in Blood on the Clock
 Ideally, don't import them into Clocktower.online and instead copy and paste relevant parts into your own json, but hey I'm not your boss.
 This includes every character officially released, with information taken from https://wiki.bloodontheclocktower.com/Main_Page as of the 18th of May 2025. I may update this as new characters release, but there's no promises.
 
-## eEVERY SINGLE ROLE.json
+## EVERY SINGLE ROLE.json
 This is a json with detailed descriptions for every character in the game. This is highly impractical, since Clocktower.online predictably wasn't made to handle 200 characters simultanously. Check this out if you think it's funny.
 Most Characters are taken from the [source code of clocktower.online](https://github.com/bra1n/townsquare). Any character starting from the Alsaahir are transcribed by myself. I demarked this with a few linebreaks.
 
